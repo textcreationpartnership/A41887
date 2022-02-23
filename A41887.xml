@@ -1,0 +1,331 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the venduë next Bedford-Gate in Charles-street Covent-Garden the great collection of paintings will continue to be expos'd by auction on Munday the 8th. instant at four a clock and every Munday following till May The great lamps are now finish'd. All that buy are to fetch them away within three days and to pay half a crown in the pound if demanded at time of sale. Care will be taken to keep the room very warm.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41887</idno>
+            <idno type="STC">Wing G1678</idno>
+            <idno type="STC">ESTC R223650</idno>
+            <idno type="EEBO-CITATION">99833939</idno>
+            <idno type="PROQUEST">99833939</idno>
+            <idno type="VID">38418</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41887)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38418)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1833:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the venduë next Bedford-Gate in Charles-street Covent-Garden the great collection of paintings will continue to be expos'd by auction on Munday the 8th. instant at four a clock and every Munday following till May The great lamps are now finish'd. All that buy are to fetch them away within three days and to pay half a crown in the pound if demanded at time of sale. Care will be taken to keep the room very warm.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing; auction date conjectured: February 1692.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Art auctions --  England --  London --  Early works to 1800.</term>
+               <term>Art --  England --  Catalogs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="auction_catalogue__paintings">
+            <pb facs="tcp:38418:1"/>
+            <pb facs="tcp:38418:1" rendition="simple:additions"/>
+            <head>AT THE VENDUË Next <hi>Bedford-Gate</hi> in <hi>Charles-ſtreet Covent-Garden</hi> THE Great COLLECTION of PAINTINGS Will continue to be expos'd by AUCTION on <hi>Munday</hi> the <hi>8th.</hi> Inſtant at Four a Clock and every <hi>Munday</hi> following till <hi>May.</hi>
+            </head>
+            <head type="sub">The great LAMPS are now Finiſh'd.</head>
+            <head type="sub">All that buy are to fetch them away within three days and to pay Half a Crown in the Pound if demanded at time of ſale.</head>
+            <head type="sub">Care will be taken to keep the Room very warm.</head>
+            <list>
+               <item>201 A Landskip by <hi>Van Derſt.</hi>
+               </item>
+               <item>202 Another <hi>ditto.</hi>
+               </item>
+               <item>203 A Droll.</item>
+               <item>204 Another well done.</item>
+               <item>205 <hi>Venus.</hi> and <hi>Adonis</hi> by <hi>Van Hooke.</hi>
+               </item>
+               <item>206 A Spark and his Miſtreſs.</item>
+               <item>207 A Head after <hi>Vandyck.</hi>
+               </item>
+               <item>208 A Vanity.</item>
+               <item>209 A Droll by <hi>Derike.</hi>
+               </item>
+               <item>210 A Landskip.</item>
+               <item>211 A Sea-piece by <hi>Percellus,</hi>
+               </item>
+               <item>212 Fruit by <hi>Bugdan.</hi>
+               </item>
+               <item>213 A Landskip by <hi>Van Juiſt.</hi>
+               </item>
+               <item>214 The Angel appearing to the Shepherds in the manner of <hi>Baſſan.</hi>
+               </item>
+               <item>215 Stillife on board by <hi>Van Sutton.</hi>
+               </item>
+               <item>216 <hi>Ecce panem Angelorum</hi> by an <hi>Italian.</hi>
+               </item>
+               <item>217 A very ſine Original Proſpective.</item>
+               <item>218 Stillife of <hi>Littlehouſe.</hi>
+               </item>
+               <item>219 A Sea-piece by <hi>Moy.</hi>
+               </item>
+               <item>220 An Original Landskip with Figures and Cattle very neat.</item>
+               <item>221 A Moonſhine finely painted.</item>
+               <item>222 A Winter piece neatly painted.</item>
+               <item>223 A Sketch'd head of <hi>Parmeno</hi> very fine.</item>
+               <item>224 Another Maſterly done <hi>ditto.</hi>
+               </item>
+               <item>225 A large piece of our Saviour Scourg'd.</item>
+               <item>226 A curious Italian piece of Hiſtory.</item>
+               <item>227 The Nativity on Copper by young <hi>Frank.</hi>
+               </item>
+               <item>228 A Large piece full of Figures.</item>
+               <item>229 A Landskip very fine of <hi>Pouſſin.</hi>
+               </item>
+               <item>230 Fiſh finely painted by <hi>Robinſon.</hi>
+               </item>
+               <item>231 A Converſation by <hi>Don Malta.</hi>
+               </item>
+               <item>232 The fellow to it <hi>ditto.</hi>
+               </item>
+               <item>233 A Sun-ſetting by <hi>Slego.</hi>
+               </item>
+               <item>234 An Original Landskip with a Robbery.</item>
+               <item>235 A Famely piece by <hi>Cornelius Johnſon.</hi>
+               </item>
+               <item>236 A Head by <hi>Vandyck.</hi>
+               </item>
+               <item>237 St. <hi>Anthonys</hi> temtation by <hi>Hemskirk.</hi>
+               </item>
+               <item>238 A Ladys Head by <hi>Hales.</hi>
+               </item>
+               <item>239 The Duke of Northumberlands head by <hi>Holbein.</hi>
+               </item>
+               <item>240 A Dutch Woman ſmoaking well painted.</item>
+               <pb facs="tcp:38418:2"/>
+               <item> 241 A very fine Sketch head by <hi>Van Dyck.</hi>
+               </item>
+               <item>242 A Landskip. on board by a Dutch Maſter.</item>
+               <item>243 Another on board <hi>ditto.</hi>
+               </item>
+               <item>244 Antoher <hi>ditto.</hi>
+               </item>
+               <item>245 A very fine night piece by a Diſciple of <hi>Dow.</hi>
+               </item>
+               <item>246 St. <hi>Peter</hi> Curing a Cripple by an <hi>Italian.</hi>
+               </item>
+               <item>247 A fine Head by <hi>Frances Floras.</hi>
+               </item>
+               <item>248 Butterflys and Inſects very fine by <hi>De Heem.</hi>
+               </item>
+               <item>249 <hi>Venus</hi> and <hi>Cupit</hi> by <hi>Goltius.</hi>
+               </item>
+               <item>250 A Sot neatly painted by <hi>Van Derſt,</hi>
+               </item>
+               <item>251 An Original winter piece full of Figures Sliding.</item>
+               <item>252 A Ship under ſail by <hi>Sale maker.</hi>
+               </item>
+               <item>253 A <hi>Fryars</hi> head a Curious Sketch by <hi>Shelton.</hi>
+               </item>
+               <item>254 A large Flower piece made for King <hi>Charles</hi> the <hi>ſecond.</hi>
+               </item>
+               <item>255 An Oval Sea piece with a pleaſant proſpect.</item>
+               <item>256 St, <hi>Katherines</hi> Decolation by young <hi>Frank</hi> on Copper.</item>
+               <item>257 A delicate Sea-piece by <hi>Back houſen,</hi>
+               </item>
+               <item>258 A Curious Sea piece of <hi>Percellus.</hi>
+               </item>
+               <item>259 A Curious Original <hi>Italian</hi> Landskip.</item>
+               <item>260 A Head after <hi>Van Dyck.</hi>
+               </item>
+               <item>261 Two Figures very fine by <hi>Anthony Moor.</hi>
+               </item>
+               <item>262 The four Seaſons very fine by <hi>Van Hook.</hi>
+               </item>
+               <item>263 <hi>Achilles</hi> among the Daughters of <hi>Agememnon</hi> by <hi>Sabaſtian.</hi>
+               </item>
+               <item>264 Our Saviour buffetted by <hi>Van Hook.</hi>
+               </item>
+               <item>265 A ſine Fruit piece of <hi>Guilman.</hi>
+               </item>
+               <item>266 A Droll by <hi>Oſtade.</hi>
+               </item>
+               <item>267 A Curious peice of <hi>Softlaven.</hi>
+               </item>
+               <item>268 Fiſh by the Great Maſter <hi>Longpeer.</hi>
+               </item>
+               <item>269 Soldiers Incamp'd very fine by old <hi>Frank.</hi>
+               </item>
+               <item>270 The Martyrdom of St, <hi>Katherine</hi> by young <hi>Frank.</hi>
+               </item>
+               <item>271 A fine piece of <hi>Rouſtraten</hi> in a rich frame.</item>
+               <item>272 A Head of <hi>Maza<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ene</hi> the F, K's, Father.</item>
+               <item>273 <hi>Charles</hi> the ſecond and his Queen neatly done in ſmall.</item>
+               <item>274 An Old mans Head a drawing very neat.</item>
+               <item>275 The old Earl of <hi>Warwick</hi> by <hi>Cooper.</hi>
+               </item>
+               <item>276 <hi>Richard Cromwell ditto.</hi>
+               </item>
+               <item>277 The Earl and Counteſs <hi>sf Devonſhire</hi> in Limnning by <hi>Iſack Oliver.</hi>
+               </item>
+               <item>278 A Boy Crying by <hi>Softlaven.</hi>
+               </item>
+               <item>279 Stillife by <hi>Littlehouſe.</hi>
+               </item>
+               <item>280 <hi>Venus</hi> riding on a Satyrs back after <hi>Van Dyck.</hi>
+               </item>
+               <item>281 A Head ſuppos'd of <hi>Lylly</hi> on a half length cloath.</item>
+               <item>282 A head of <hi>Greenhill.</hi>
+               </item>
+               <item>283 An Original <hi>Magdelen</hi> extreme fine.</item>
+               <item>284 A <hi>Madona</hi> after <hi>Titian.</hi>
+               </item>
+               <item>285 A Sheepherd by old <hi>Sagart.</hi>
+               </item>
+               <item>286 A Landskip by <hi>Roſs.</hi>
+               </item>
+               <item>287 The Anuntiation ſoft and fine.</item>
+               <item>288 A Curiots piece of Proſpective on board.</item>
+               <item>289 A Curious Sea piece of <hi>Bonaventure Peters.</hi>
+               </item>
+               <item>290 A Head by <hi>Cornelius Johnſon.</hi>
+               </item>
+               <item>291 Another <hi>ditto,</hi>
+               </item>
+               <item>292 An Original ovall Froſt piece.</item>
+               <item>293 King <hi>James</hi> the ſecond well painted.</item>
+               <item>294 A Landskip.</item>
+               <item>295 Nimphs and Satyrs.</item>
+               <item>296 A Landskip.</item>
+               <item>297 A Woman empting a Pot.</item>
+               <item>298 Stillife by <hi>Little houſe,</hi>
+               </item>
+               <item>299 A dark Landskip,</item>
+               <item>300 A Head by <hi>Greenhill.</hi>
+               </item>
+               <item>301 A Head by <hi>Rembrant.</hi>
+               </item>
+               <item>302 A Head after <hi>Lilly.</hi>
+               </item>
+               <item>303 A large Landskip. and Fountain.</item>
+               <item>304 <hi>Venus</hi> and <hi>Adonis</hi> after <hi>Van Dyck.</hi>
+               </item>
+               <item>305 A Robbery by <hi>Walfourd.</hi>
+               </item>
+               <item>306 A Droll.</item>
+               <item>307 Peace.</item>
+               <item>308 Cocks and Hens by <hi>Griffeir.</hi>
+               </item>
+               <item>309 <hi>Venus</hi> and <hi>Cupit</hi> on Copper,</item>
+               <item>310 A Sea piece by <hi>Salemaker.</hi>
+               </item>
+               <item>311 An old mans head by <hi>Rutler.</hi>
+               </item>
+               <item>312 A Landskip.</item>
+               <item>313 A <hi>Cleopatria</hi> by <hi>Hulſt.</hi>
+               </item>
+               <item>314 A <hi>Madona</hi> after <hi>Rubens.</hi>
+               </item>
+               <item>315 <hi>Cupit</hi> and <hi>Pſyche.</hi>
+               </item>
+               <item>316 A Head after <hi>Lylly.</hi>
+               </item>
+               <item>317 A Landskip by <hi>Roſs.</hi>
+               </item>
+               <item>318 A Landskip and Ruins by <hi>Griffeir.</hi>
+               </item>
+               <item>319 A bunch of Grapes.</item>
+               <item>320 A Landskip.</item>
+               <item>321 A Froſt piece.</item>
+               <item>322 A Bare-baiting.</item>
+               <item>323 One after <hi>Zouſt.</hi>
+               </item>
+               <item>324 The Counteſs of Clifford after <hi>Lylly.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:38418:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
